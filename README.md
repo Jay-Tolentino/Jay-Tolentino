@@ -54,5 +54,7 @@ Cybersecurity and network defense concepts
 
 ---
 
+## Connect
+
 LinkedIn: www.linkedin.com/in/jay-tolentino-110756389  
 Email: jaytolentino@csus.edu
