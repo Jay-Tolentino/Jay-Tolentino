@@ -1,16 +1,17 @@
 # Jay Tolentino
 
-Computer Science Student at Sacramento State  
-Interested in Software Engineering, Systems, and IT Infrastructure  
+Computer Science student at Sacramento State building strong foundations in software engineering, IT infrastructure, and cybersecurity.
+
+I am focused on developing systems level understanding, strengthening programming fundamentals, and applying security principles in practical environments.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 Languages: Java, Python, C, Bash, x86 Assembly  
 Tools: Git, GitHub, Eclipse, jGRASP, Wireshark, Nmap  
 Operating Systems: Windows, macOS, Linux  
-Core Knowledge: Data Structures, OOP, Algorithms, Networking (TCP/IP, DNS, subnetting), Linux fundamentals, Debugging  
+Core Areas: Data Structures, Algorithms, Object Oriented Programming, Networking (TCP/IP, DNS, Subnetting), Linux system fundamentals, Debugging, System troubleshooting  
 
 ---
 
@@ -19,46 +20,45 @@ Core Knowledge: Data Structures, OOP, Algorithms, Networking (TCP/IP, DNS, subne
 ### Inventory Management System (Java)
 Designed and implemented a console based inventory system to manage warehouse product records.  
 - Applied object oriented design principles  
-- Implemented modular class structure  
-- Handled dynamic inventory updates and record organization  
+- Built modular class architecture for maintainability  
+- Implemented dynamic record updates and structured data handling  
 
 ### Security Home Lab (Linux and Network Monitoring)
-Built a multi VM environment using Ubuntu and Windows to simulate enterprise network infrastructure.  
+Built a multi VM lab using Ubuntu and Windows to simulate enterprise network environments.  
 - Configured firewall rules and role based permissions  
-- Performed packet analysis using Wireshark  
-- Conducted port scanning and exposure testing with Nmap  
-- Strengthened understanding of system hardening and network security  
+- Performed packet inspection using Wireshark  
+- Conducted port scanning and exposure analysis with Nmap  
+- Practiced system hardening and network segmentation concepts  
 
 ### Quiz Web Application (Team Project)
 Served as Quality Control Lead for a collaborative software project.  
-- Designed and executed structured test plans  
+- Designed structured test plans  
 - Identified and documented bugs  
-- Managed Git workflow within team environment  
+- Managed Git workflow within a team environment  
 
 ---
 
-## Experience Highlights
+## Professional Experience
 
 Building Supervisor – Sacramento State University Union  
-- Troubleshoot AV systems, workstations, and digital signage  
-- Maintain access control and digital reporting systems  
-- Coordinate with IT and facilities teams for event tech setup  
+- Troubleshoot AV systems, workstation issues, and digital signage  
+- Maintain digital reporting systems and access control protocols  
+- Coordinate with IT and facilities teams to ensure secure and reliable technology setup  
 
 ---
 
-## Currently Working On
+## Current Focus
 
-- Strengthening data structures and algorithm fundamentals  
-- Expanding backend development skills  
-- Building systems level projects  
+- Strengthening data structures and algorithm problem solving  
+- Expanding backend and systems development skills  
+- Deepening knowledge in cybersecurity and network security  
 
 ---
 
-## Connect With Me
+## Connect
 
 LinkedIn: www.linkedin.com/in/jay-tolentino-110756389  
 Email: jaytolentino@csus.edu
-
 <!--
 **Jay-Tolentino/Jay-Tolentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
