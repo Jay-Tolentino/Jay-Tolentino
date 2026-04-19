@@ -1,18 +1,23 @@
 # Jay Tolentino
 
-Computer Science student at Sacramento State with a strong interest in software engineering, IT infrastructure, and cybersecurity.
+Computer Science student at Sacramento State with a strong interest in IT infrastructure, cloud systems, and cybersecurity.
 
-I enjoy building systems from the ground up, understanding how they work internally, and improving them through debugging, optimization, and security hardening. My goal is to become a well rounded engineer with strong fundamentals in both development and security.
+I enjoy building and working with real systems, understanding how they operate at a deeper level, and improving reliability through troubleshooting, testing, and optimization. My goal is to grow into a well rounded engineer with strong foundations in both system operations and software.
 
 ---
 
 ## Technical Skills
 
-Languages: Java, Python, C, Bash, x86 Assembly  
-Tools: Git, GitHub, Eclipse, jGRASP, Wireshark, Nmap  
-Operating Systems: Windows, macOS, Linux  
+Languages  
+Java, Python, C, Bash, x86 Assembly  
 
-Core Knowledge:
+Tools and Technologies  
+Git, GitHub, Eclipse, jGRASP, Wireshark, Nmap  
+
+Operating Systems  
+Windows, macOS, Linux  
+
+Core Knowledge  
 Data Structures and Algorithms  
 Object Oriented Programming  
 Networking fundamentals including TCP/IP, DNS, and subnetting  
@@ -23,38 +28,40 @@ System troubleshooting and debugging
 
 ## Projects
 
-### Inventory Management System (Java)
-Built a console based inventory system to manage warehouse product records.  
-Focused on clean object oriented design and structured data handling.
+Inventory Management System (Java)  
+Designed and implemented a console based inventory system to manage product records in a simulated warehouse environment. Focused on clean object oriented design, data handling, and maintainable structure.
 
-### Security Home Lab
-Created a multi VM lab using Ubuntu and Windows to simulate real network environments.  
-Configured firewall rules, analyzed traffic with Wireshark, and performed exposure testing using Nmap.  
-This project strengthened my understanding of how systems are secured in practice.
+Cloud Based Application Deployment (AWS and Linux)  
+Provisioned a Linux server on AWS EC2, configured secure access, and deployed a web service. Managed networking and security settings to allow external connectivity while maintaining system stability.
 
-### Quiz Web Application (Team Project)
-Served as Quality Control Lead.  
-Developed test plans, documented bugs, and worked within a collaborative Git workflow.
+Security Home Lab  
+Built a multi virtual machine lab using Ubuntu and Windows to simulate real network environments. Configured firewall rules, analyzed network traffic using Wireshark, and performed exposure testing with Nmap to better understand system security.
+
+Quiz Web Application (Team Project)  
+Served as Quality Control Lead. Developed test plans, identified and documented bugs, and worked within a collaborative Git workflow to ensure stable and reliable application releases.
 
 ---
 
 ## Experience
 
-Building Supervisor – Sacramento State University Union  
-Regularly troubleshoot AV systems, workstation issues, and building technology.  
-Work closely with IT and facilities teams to maintain reliable and secure operations.
+Web and Tech Intern  
+Worked on maintaining and updating WordPress websites, managing content, troubleshooting issues, and supporting internal teams with technical needs. Gained hands on experience with real production systems and web operations.
+
+Building Supervisor | IT Support and Operations  
+Serve as a first point of contact for troubleshooting AV systems, workstation issues, and building technology. Work closely with IT and facilities teams to maintain reliable operations and resolve technical problems in real time.
 
 ---
 
 ## Currently Growing In
 
-Advanced data structures  
+Cloud and DevOps concepts  
 Backend development  
-Cybersecurity and network defense concepts  
+Cybersecurity and network defense  
+System design and scalability  
 
 ---
 
 ## Connect
 
-LinkedIn: www.linkedin.com/in/jay-tolentino-110756389  
+LinkedIn: https://www.linkedin.com/in/jay-tolentino-110756389  
 Email: jaytolentino@csus.edu
