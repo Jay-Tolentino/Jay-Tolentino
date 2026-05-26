@@ -45,6 +45,7 @@ Served as Quality Control Lead. Developed test plans, identified and documented 
 ## Experience
 
 Web Content & IT Support 
+
 Supported legislative web operations by updating content and resolving user and system issues onsite using Drupal CMS. Troubleshot web and desktop issues, assisted with QA testing for application deployments, and ensured reliability of internal systems. Documented processes and collaborated with cross functional teams to deliver accurate, timely updates for stakeholders.
 
 Building Supervisor | IT Support and Operations  
