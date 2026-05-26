@@ -1,6 +1,6 @@
 # Jay Tolentino
 
-Computer Science student at Sacramento State with a strong interest in IT infrastructure, cloud systems, and cybersecurity.
+Computer Science student at Sacramento State with a strong interest in IT infrastructure, cloud systems, and DevOps.
 
 I enjoy building and working with real systems, understanding how they operate at a deeper level, and improving reliability through troubleshooting, testing, and optimization. My goal is to grow into a well rounded engineer with strong foundations in both system operations and software.
 
@@ -44,8 +44,8 @@ Served as Quality Control Lead. Developed test plans, identified and documented 
 
 ## Experience
 
-Web and Tech Intern  
-Worked on maintaining and updating WordPress websites, managing content, troubleshooting issues, and supporting internal teams with technical needs. Gained hands on experience with real production systems and web operations.
+Web Content & IT Support 
+Supported legislative web operations by updating content and resolving user and system issues onsite using Drupal CMS. Troubleshot web and desktop issues, assisted with QA testing for application deployments, and ensured reliability of internal systems. Documented processes and collaborated with cross functional teams to deliver accurate, timely updates for stakeholders.
 
 Building Supervisor | IT Support and Operations  
 Serve as a first point of contact for troubleshooting AV systems, workstation issues, and building technology. Work closely with IT and facilities teams to maintain reliable operations and resolve technical problems in real time.
@@ -55,8 +55,7 @@ Serve as a first point of contact for troubleshooting AV systems, workstation is
 ## Currently Growing In
 
 Cloud and DevOps concepts  
-Backend development  
-Cybersecurity and network defense  
+Backend development   
 System design and scalability  
 
 ---
@@ -64,4 +63,4 @@ System design and scalability
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/jay-tolentino-110756389  
-Email: jaytolentino@csus.edu
+Email: jaytolentino.cs@gmail.com
